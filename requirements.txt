@@ -1,10 +1,9 @@
 streamlit
-streamlit-mic-recorder
+plotly
+pandas
+yfinance
 python-dotenv
 requests
-yfinance
-pandas
-numpy
-assemblyai
-boto3
+gtts
 newsapi-python
+streamlit-mic-recorder
