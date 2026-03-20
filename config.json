@@ -1,0 +1,16 @@
+{
+  "ticker_map": {
+    "apple": "AAPL",
+    "microsoft": "MSFT",
+    "tesla": "TSLA",
+    "google": "GOOGL",
+    "alphabet": "GOOGL",
+    "amazon": "AMZN",
+    "nvidia": "NVDA",
+    "meta": "META",
+    "netflix": "NFLX",
+    "tcs": "TCS.NS",
+    "infosys": "INFY.NS",
+    "reliance": "RELIANCE.NS"
+  }
+}

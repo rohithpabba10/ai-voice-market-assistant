@@ -1,0 +1,10 @@
+streamlit
+streamlit-mic-recorder
+python-dotenv
+requests
+yfinance
+pandas
+numpy
+assemblyai
+boto3
+newsapi-python

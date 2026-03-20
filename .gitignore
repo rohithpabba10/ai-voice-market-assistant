@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+ENV/
+*.log
+.streamlit/
+data/input.wav
+data/output.mp3
